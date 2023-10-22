@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Home Care Medical Nursing</title>
+    <link>https://medicalcares.github.io/nursing/categories/</link>
+    <description>Recent content in Categories on Home Care Medical Nursing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 21 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://medicalcares.github.io/nursing/categories/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Home Care</title>
+      <link>https://medicalcares.github.io/nursing/categories/home-care/</link>
+      <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://medicalcares.github.io/nursing/categories/home-care/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
